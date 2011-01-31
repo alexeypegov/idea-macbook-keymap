@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="MacSecondKeystroke" parent="Mac OS X 10.5+">
+  <action id="ChangeSignature" />
+  <action id="CloneElement" />
+  <action id="Console.TableResult.Reload" />
+  <action id="CopyElement" />
+  <action id="EditorScrollToCenter" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="X" />
+  </action>
+  <action id="FileChooser.NewFolder" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta T" />
+    <keyboard-shortcut first-keystroke="meta F12" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta F" second-keystroke="F" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="meta F" second-keystroke="P" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="meta F" second-keystroke="U" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="control ENTER" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta N" second-keystroke="L" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="meta N" second-keystroke="U" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="meta N" second-keystroke="T" />
+  </action>
+  <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="meta F" second-keystroke="L" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="meta alt N" />
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="I" />
+  </action>
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="C" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="F" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="P" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="V" />
+  </action>
+  <action id="Maven.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta MINUS" />
+    <keyboard-shortcut first-keystroke="meta SUBTRACT" />
+  </action>
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="M" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="control ENTER" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="QuickList.spL">
+    <keyboard-shortcut first-keystroke="control X" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="R" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta F" second-keystroke="R" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="F9" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt F1" />
+    <keyboard-shortcut first-keystroke="alt BACK_QUOTE" />
+  </action>
+  <action id="Vcs.ShowMessageHistory" />
+  <action id="Vcs.UpdateProject" />
+</keymap>
+
