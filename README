@@ -11,4 +11,6 @@ same as Command+R then R)
 
 I also like an idea of mnemonic rules, e.g. Command+R is for Refactorings, Command+F is for Find, Command+N is for Navigation.
 
+To enable second action popup you should go to Registy (by pressing Command+Option+Shift+/, choose "Registry") and check "actionSystem.secondKeystrokeAutoPopupEnabled" 
+
 Any ideas or suggestions? Please email me at spleaner@gmail.com
