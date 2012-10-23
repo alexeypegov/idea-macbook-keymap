@@ -59,6 +59,9 @@
     <keyboard-shortcut first-keystroke="meta MINUS" />
     <keyboard-shortcut first-keystroke="meta SUBTRACT" />
   </action>
+  <action id="ModuleSettings">
+    <keyboard-shortcut first-keystroke="meta I" />
+  </action>
   <action id="Move">
     <keyboard-shortcut first-keystroke="meta R" second-keystroke="M" />
   </action>
