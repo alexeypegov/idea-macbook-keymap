@@ -38,10 +38,12 @@
   <action id="HighlightUsagesInFile">
     <keyboard-shortcut first-keystroke="meta F" second-keystroke="L" />
   </action>
-  <action id="ImplementMethods" />
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="I" />
+  </action>
   <action id="Inline">
     <keyboard-shortcut first-keystroke="meta alt N" />
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="I" />
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="L" />
   </action>
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="meta R" second-keystroke="C" />
@@ -68,7 +70,9 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
-  <action id="OverrideMethods" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="O" />
+  </action>
   <action id="QuickList.spL">
     <keyboard-shortcut first-keystroke="control X" />
   </action>
