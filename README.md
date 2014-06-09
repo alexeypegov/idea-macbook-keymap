@@ -15,7 +15,11 @@ I also like an idea of mnemonic rules, e.g. `Command+R` is for Refactorings, `Co
 
 Copy `MacSekondKeystroke.xml` to `~/Library/Preferences/IntelliJIdeaXX/keymaps` where `XX` is IntelliJ IDEA version number, i.e. for IntelliJ IDEA 12 the path will be `~/Library/Preferences/IntelliJIdea12/keymaps`.
 
+## Second Keystroke Help Popup
+
 To enable second action popup you should go to Registy (by pressing `Command+Option+Shift+/`, choose "Registry") and check "actionSystem.secondKeystrokeAutoPopupEnabled" 
+
+![Refactor popup](http://dl.dropboxusercontent.com/s/d3wfibahnw3rc7m/2014-06-09%20at%2016.50%202x.png)
 
 ## Contacts
 
