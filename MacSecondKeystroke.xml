@@ -27,19 +27,8 @@
     <keyboard-shortcut first-keystroke="control ENTER" />
     <keyboard-shortcut first-keystroke="meta R" second-keystroke="G" />
   </action>
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="meta N" second-keystroke="meta D" />
-  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta N" second-keystroke="L" />
-  </action>
-  <action id="GotoNextBookmark">
-    <keyboard-shortcut first-keystroke="meta B" second-keystroke="N" />
-  </action>
-  <action id="GotoPreviousBookmark">
-    <keyboard-shortcut first-keystroke="meta B" second-keystroke="P" />
   </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="meta N" second-keystroke="U" />
@@ -88,7 +77,6 @@
   <action id="QuickList.spL">
     <keyboard-shortcut first-keystroke="control X" />
   </action>
-  <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta R" second-keystroke="R" />
   </action>
@@ -96,16 +84,17 @@
     <keyboard-shortcut first-keystroke="meta F" second-keystroke="R" />
   </action>
   <action id="ReplaceInPath" />
-  <action id="Rerun" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="F9" />
+  </action>
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="meta DELETE" />
+    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="D" />
   </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt F1" />
     <keyboard-shortcut first-keystroke="alt BACK_QUOTE" />
-  </action>
-  <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="meta B" second-keystroke="S" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
@@ -121,12 +110,6 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
-  </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="meta B" second-keystroke="B" />
-  </action>
-  <action id="ToggleBookmarkWithMnemonic">
-    <keyboard-shortcut first-keystroke="meta B" second-keystroke="M" />
   </action>
   <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
