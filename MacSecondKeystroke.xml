@@ -62,6 +62,9 @@
     <keyboard-shortcut first-keystroke="meta MINUS" />
     <keyboard-shortcut first-keystroke="meta SUBTRACT" />
   </action>
+  <action id="MembersPullUp">
+    <keyboard-shortcut first-keystroke="meta R" second-keystroke="U" />
+  </action>
   <action id="ModuleSettings">
     <keyboard-shortcut first-keystroke="meta I" />
   </action>
@@ -89,7 +92,6 @@
   </action>
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="meta DELETE" />
-    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
     <keyboard-shortcut first-keystroke="meta R" second-keystroke="D" />
   </action>
   <action id="SelectIn">
