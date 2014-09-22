@@ -27,6 +27,11 @@
     <keyboard-shortcut first-keystroke="control ENTER" />
     <keyboard-shortcut first-keystroke="meta R" second-keystroke="G" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt B" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta N" second-keystroke="I" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta N" second-keystroke="L" />
   </action>
@@ -92,6 +97,7 @@
   </action>
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="meta DELETE" />
+    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
     <keyboard-shortcut first-keystroke="meta R" second-keystroke="D" />
   </action>
   <action id="SelectIn">
