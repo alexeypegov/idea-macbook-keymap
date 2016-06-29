@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="MacSecondKeystroke" parent="Mac OS X 10.5+">
   <action id="ChangeSignature" />
   <action id="CloneElement" />
@@ -6,124 +5,135 @@
   <action id="CopyElement" />
   <action id="EditorScrollToCenter" />
   <action id="ExtractMethod">
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="X" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="x" />
   </action>
   <action id="FileChooser.NewFolder" />
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta T" />
-    <keyboard-shortcut first-keystroke="meta F12" />
+    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="meta f12" />
   </action>
   <action id="Find">
-    <keyboard-shortcut first-keystroke="meta F" second-keystroke="F" />
+    <keyboard-shortcut first-keystroke="meta f" second-keystroke="f" />
   </action>
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="meta F" second-keystroke="P" />
+    <keyboard-shortcut first-keystroke="meta f" second-keystroke="p" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="meta F" second-keystroke="U" />
+    <keyboard-shortcut first-keystroke="meta f" second-keystroke="u" />
   </action>
   <action id="FindUsagesInFile" />
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="control ENTER" />
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="G" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="g" />
   </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="meta alt B" />
+    <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
-    <keyboard-shortcut first-keystroke="meta N" second-keystroke="I" />
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="i" />
   </action>
   <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="meta N" second-keystroke="L" />
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="l" />
   </action>
   <action id="GotoSuperMethod">
-    <keyboard-shortcut first-keystroke="meta N" second-keystroke="U" />
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="u" />
   </action>
   <action id="GotoTest">
-    <keyboard-shortcut first-keystroke="meta N" second-keystroke="T" />
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="t" />
   </action>
   <action id="HighlightUsagesInFile">
-    <keyboard-shortcut first-keystroke="meta F" second-keystroke="L" />
+    <keyboard-shortcut first-keystroke="meta f" second-keystroke="l" />
   </action>
   <action id="ImplementMethods">
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="I" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="i" />
   </action>
   <action id="Inline">
-    <keyboard-shortcut first-keystroke="meta alt N" />
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="L" />
+    <keyboard-shortcut first-keystroke="meta alt n" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="l" />
   </action>
   <action id="IntroduceConstant">
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="C" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="c" />
   </action>
   <action id="IntroduceField">
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="F" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="f" />
   </action>
   <action id="IntroduceParameter">
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="P" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="p" />
   </action>
   <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="V" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="v" />
   </action>
   <action id="Maven.CollapseAll">
-    <keyboard-shortcut first-keystroke="meta MINUS" />
-    <keyboard-shortcut first-keystroke="meta SUBTRACT" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="MembersPullUp">
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="U" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="u" />
   </action>
   <action id="ModuleSettings">
-    <keyboard-shortcut first-keystroke="meta I" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="Move">
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="M" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="m" />
   </action>
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="control ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="OverrideMethods">
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="O" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="o" />
   </action>
   <action id="QuickList.spL">
-    <keyboard-shortcut first-keystroke="control X" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="R" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="meta F" second-keystroke="R" />
+    <keyboard-shortcut first-keystroke="meta f" second-keystroke="r" />
   </action>
   <action id="ReplaceInPath" />
   <action id="Resume">
-    <keyboard-shortcut first-keystroke="F9" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="SafeDelete">
-    <keyboard-shortcut first-keystroke="meta DELETE" />
-    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
-    <keyboard-shortcut first-keystroke="meta R" second-keystroke="D" />
+    <keyboard-shortcut first-keystroke="meta delete" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="d" />
   </action>
   <action id="SelectIn">
-    <keyboard-shortcut first-keystroke="alt F1" />
-    <keyboard-shortcut first-keystroke="alt BACK_QUOTE" />
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="meta l" second-keystroke="h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta l" second-keystroke="v" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="control alt ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="control alt DOWN" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="control alt UP" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="meta l" second-keystroke="u" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="meta l" second-keystroke="a" />
   </action>
   <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="shift control alt DOWN" />
-    <keyboard-shortcut first-keystroke="meta N" second-keystroke="C" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="c" />
   </action>
 </keymap>
-
