@@ -18,9 +18,7 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta f" second-keystroke="p" />
   </action>
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="meta f" second-keystroke="u" />
-  </action>
+  <action id="FindUsages" />
   <action id="FindUsagesInFile" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -102,6 +100,9 @@
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta f" second-keystroke="u" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="meta l" second-keystroke="h" />
