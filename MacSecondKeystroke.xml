@@ -76,6 +76,9 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="s" />
+  </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="o" />
   </action>
