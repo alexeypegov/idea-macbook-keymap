@@ -85,6 +85,7 @@
   <action id="QuickList.spL">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
+  <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
@@ -92,6 +93,7 @@
     <keyboard-shortcut first-keystroke="meta f" second-keystroke="r" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="Rerun" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
@@ -134,6 +136,10 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="meta l" second-keystroke="a" />
   </action>
+  <action id="Unwrap">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta u" />
+  </action>
+  <action id="UsageView.Rerun" />
   <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker">
