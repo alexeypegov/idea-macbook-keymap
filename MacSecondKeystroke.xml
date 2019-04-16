@@ -24,6 +24,21 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="g" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="a" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="c" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="d" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="f" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
@@ -35,8 +50,15 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="meta n" second-keystroke="u" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="s" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="meta n" second-keystroke="t" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift meta button1" />
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="y" />
   </action>
   <action id="HighlightUsagesInFile">
     <keyboard-shortcut first-keystroke="meta f" second-keystroke="l" />
@@ -76,6 +98,7 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="NewScratchFile" />
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="o" />
   </action>
@@ -133,8 +156,4 @@
   </action>
   <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
-  <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
-    <keyboard-shortcut first-keystroke="meta n" second-keystroke="c" />
-  </action>
 </keymap>
