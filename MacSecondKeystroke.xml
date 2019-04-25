@@ -82,6 +82,10 @@
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="v" />
   </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
+    <keyboard-shortcut first-keystroke="meta n" second-keystroke="e" />
+  </action>
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="meta minus" />
     <keyboard-shortcut first-keystroke="meta subtract" />
