@@ -1,4 +1,4 @@
-# IntelliJ IDEA Second Keystroke Keymap
+# IntelliJ IDEA Second Keystroke Mnemonic Keymap
 
 Some time ago I've made some changes in IDEA codebase to improve the usability of second keystrokes (i.e. pressing `Command+R` then `R` again). So I started to figure out a new keymap for the default Apple MacBook layout (with special feature keys instead of function `Fn` keys, etc).
 
