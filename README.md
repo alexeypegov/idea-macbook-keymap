@@ -1,6 +1,6 @@
-# IntelliJ IDEA Sekond Keystroke Keymap
+# IntelliJ IDEA Second Keystroke Keymap
 
-Some time ago I made some changes in the IDEA codebase to improve the usability of second keystrokes (i.e. pressing Command+R then R again). So I started to figure out a new keymap for the default Apple MacBook layout (with special feature keys instead of function Fn keys, etc).
+Some time ago I've made some changes in IDEA codebase to improve the usability of second keystrokes (i.e. pressing `Command+R` then `R` again). So I started to figure out a new keymap for the default Apple MacBook layout (with special feature keys instead of function `Fn` keys, etc).
 
 Changes within the second keystrokes include:
 
@@ -9,7 +9,7 @@ Changes within the second keystrokes include:
 
 ## Mnemonic rules
 
-I also like an idea of mnemonic rules, e.g. `Command+R` is for Refactorings, `Command+F` is for Find, `Command+N` is for Navigation and so on (see xml file for full list of mappings).
+I also like an idea of mnemonic rules, e.g. `Command+R` for Refactorings, `Command+F` for Find, `Command+N` for Navigation and so on (see `xml` file for full list of mappings).
 
 ## Installation
 
@@ -17,10 +17,10 @@ Copy `MacSekondKeystroke.xml` to `~/Library/Preferences/IntelliJIdeaXX/keymaps` 
 
 ## Second Keystroke Help Popup
 
-To enable second action popup you should go to Registy (by pressing `Command+Option+Shift+/`, choose "Registry") and check "actionSystem.secondKeystrokeAutoPopupEnabled" 
+To enable second action popup you should go to Registy (by pressing `Command+Option+Shift+/`, choose **Registry**) and check **actionSystem.secondKeystrokeAutoPopupEnabled** 
 
 ![Refactor popup](http://dl.dropboxusercontent.com/s/d3wfibahnw3rc7m/2014-06-09%20at%2016.50%202x.png)
 
 ## Contacts
 
-Any ideas or suggestions? Please email me at iam@alexeypegov.com
+Any ideas or suggestions? Please mail me at iam@alexeypegov.com
