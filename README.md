@@ -1,6 +1,6 @@
 # Warning
 
-It looks like the second keystroke popup code was removed from the idea codebase at some point, so this functionality is not available anymore. Just in case, JetBrains have created their own ["mnemonic" keymap](https://plugins.jetbrains.com/plugin/19094-mnemonic-keymap).
+It looks like the second keystroke popup code was removed from the idea codebase, so this functionality is not available anymore. Just in case, JetBrains have created their own ["mnemonic" keymap](https://plugins.jetbrains.com/plugin/19094-mnemonic-keymap).
 
 # IntelliJ IDEA Second Keystroke Mnemonic Keymap
 
