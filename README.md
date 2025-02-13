@@ -1,3 +1,7 @@
+# Warning
+
+It looks like the second keystroke popup code was removed from the idea codebase at some point, so this functionality is not available anymore. Just in case, JetBrains have created added their own ["mnemonic" keymap](https://plugins.jetbrains.com/plugin/19094-mnemonic-keymap).
+
 # IntelliJ IDEA Second Keystroke Mnemonic Keymap
 
 Some time ago I've made some changes in IDEA codebase to improve the usability of second keystrokes (i.e. pressing `Command+R` then `R` again). So I started to figure out a new keymap for the default Apple MacBook layout (with special feature keys instead of function `Fn` keys, etc).
